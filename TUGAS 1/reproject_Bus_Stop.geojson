@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "reproject_Bus_Stop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "id": "node/2902182722", "@id": "node/2902182722", "bus": "yes", "highway": "bus_stop", "name": "PO. METRO PERMAI", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.4855388, -5.1407746 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "id": "node/5535125835", "@id": "node/5535125835", "bus": null, "highway": "bus_stop", "name": "BMA transport Makassart", "public_transport": null }, "geometry": { "type": "Point", "coordinates": [ 119.4219247, -5.1349471 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "id": "node/6816457722", "@id": "node/6816457722", "bus": "yes", "highway": "bus_stop", "name": "PO. BORLINDO", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.485491900000014, -5.1408131 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "id": "node/6816457723", "@id": "node/6816457723", "bus": "yes", "highway": "bus_stop", "name": "PO. BINTANG TIMUR", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.4856775, -5.1407893 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "id": "node/6816457724", "@id": "node/6816457724", "bus": "yes", "highway": "bus_stop", "name": "PO. BINTANG MARWAH", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.485806900000014, -5.1407732 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "id": "node/9802925703", "@id": "node/9802925703", "bus": "yes", "highway": "bus_stop", "name": "Halte Bus Ramayana Mall", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.4753038, -5.1436595 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "id": "node/9805235579", "@id": "node/9805235579", "bus": "yes", "highway": "bus_stop", "name": "Halte Brt Universitas Bosowa", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.4432452, -5.1381062 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "id": "node/9840686089", "@id": "node/9840686089", "bus": "yes", "highway": "bus_stop", "name": "Halte Bandara Baru", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.5259384, -5.0678452 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "id": "node/9937355462", "@id": "node/9937355462", "bus": null, "highway": "bus_stop", "name": "Halte Daya", "public_transport": null }, "geometry": { "type": "Point", "coordinates": [ 119.5112917, -5.1104668 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "id": "node/10603669793", "@id": "node/10603669793", "bus": "yes", "highway": "bus_stop", "name": "Lego-Lego", "public_transport": "platform" }, "geometry": { "type": "Point", "coordinates": [ 119.403204700000018, -5.1459773 ] } }
+]
+}
