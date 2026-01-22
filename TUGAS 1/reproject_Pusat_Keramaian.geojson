@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "reproject_Pusat_Keramaian",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "id": null, "Name": "MTOS" }, "geometry": { "type": "Point", "coordinates": [ 119.475077693670727, -5.144360382020241 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "id": null, "Name": "NIPAH MALL" }, "geometry": { "type": "Point", "coordinates": [ 119.449713480158891, -5.139496321498053 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "id": null, "Name": "MALL PANAKUKANG" }, "geometry": { "type": "Point", "coordinates": [ 119.446499927412361, -5.157474160040595 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "id": null, "Name": "MALL RATU INDAH" }, "geometry": { "type": "Point", "coordinates": [ 119.417233744235673, -5.153253374343859 ] } }
+]
+}
